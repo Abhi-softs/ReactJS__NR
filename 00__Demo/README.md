@@ -14,7 +14,7 @@ header1.innerText='Showing Hello World through JS';
 
 header1.style.color='red'; 
 
-==> Append <h1> to <div>
+<!-- Append <h1> to <div> -->
 
 root.appendChild(header1);
 
