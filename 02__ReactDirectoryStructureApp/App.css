@@ -1,0 +1,30 @@
+* {
+    margin: 0px
+}
+
+/* why below styles are not appalying to react element */
+/* #para {
+    padding: "15px";
+    background-color: "aqua";
+    color: "red";
+    font-size:"22px";
+    text-align:"center";
+    font-weight: "bold";
+} */
+
+/* 
+
+==> 'style' attribute at react element,
+
+{
+    style : {
+        padding:"15px",
+        backgroundColor: "aqua",
+        color: "red",
+        fontSize:"22px",
+        textAlign:"center",
+        fontWeight: "bold"
+    }
+}
+
+*/
